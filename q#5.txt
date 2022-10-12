@@ -1,0 +1,13 @@
+* Stages of git
+Answer:
+There are 4 stages of git as follows:
+1- Working directory.
+2- Staging Directory.
+(area)
+3- Local repository.
+4- Remote Repository.
+git add will get us from Working directory to staging area,
+(git commit) will get us from staging area to local repository,
+(git push) will get us from local repository to remote repository,
+(git fetch) will get us from remote repository back to local repository,
+(git checkout/merge) will get us from local repository back to working directory.

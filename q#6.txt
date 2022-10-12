@@ -1,0 +1,9 @@
+* 3 Methods of git reset/
+Answer:
+Following are the 3 methods of git reset:
+1- Git reset:Soft
+2- Git reset:Mixes
+3- Git reset:Hard
+Git Reset:Soft-> Remove the commit from local repository, but leep the les in staging area.
+Git Reset:Mixed-> Remove the commit from local repository and also remove changes from the staging area.
+Git reset:Hard-> Removethe commit from local repository and staging area and een changes the local files.

@@ -1,0 +1,3 @@
+* Difference Between Git / Github?
+Answer:
+Git is a software, command line tool, installemaintained by linux. On the other hand, github is a service which is graphical user interface, hosted on the web and maintained by Microsoft.
